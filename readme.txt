@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Layle.
 //Creating new branches is quick and simple.
+//For "what"
