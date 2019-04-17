@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 That's the MASTER version.
+=======
+Let's add some new features.
+>>>>>>> what

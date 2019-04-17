@@ -5,4 +5,8 @@ Git tracks changes of files.
 Layle.
 //Creating new branches is quick and simple.
 //For "what"
+<<<<<<< HEAD
 fix bug 101
+=======
+Aha!
+>>>>>>> what
